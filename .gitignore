@@ -1,0 +1,14 @@
+# 本地系统和编辑器
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# 依赖、构建与缓存
+node_modules/
+dist/
+build/
+.cache/
+*.log
